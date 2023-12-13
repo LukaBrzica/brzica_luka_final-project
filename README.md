@@ -2,9 +2,13 @@
 
 Simple overview of use/purpose.
 
+To create a game where you can control players on a soccer field and to score goals again the computer. 
+
 ## Description
 
 An in-depth paragraph about your project and overview of use.
+
+This project will extend on what we learned abut collisions by using players and a ball. It will also extend my ability to create a scoreboard and to have an opportunity to win in the game.It will also demonstrate my ability to create a full field with teh same lines and charactersitics as a soccer field. 
 
 ## Getting Started
 
@@ -13,15 +17,27 @@ An in-depth paragraph about your project and overview of use.
 * Describe any prerequisites, libraries, OS version, etc., needed before installing program.
 * ex. Windows 10
 
+Python
+Github
+Pygame
+
 ### Installing
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
+programs stored in folder in github
+
 ### Executing program
 
 * How to run the program
 * Step-by-step bullets
+
+Open vs code
+click on the main.py 
+and click the start 
+to run the program 
+
 ```
 code blocks for commands
 ```
