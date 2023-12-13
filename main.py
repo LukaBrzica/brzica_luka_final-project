@@ -7,7 +7,7 @@ Create a retro pong soccer game
 Goals:
 create players you can control 
 goals and scoreboard 
-pvp
+pvp-
 '''
 # Importing pygame, the system, and random.
 import pygame

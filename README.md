@@ -78,4 +78,4 @@ Inspiration, code snippets, etc.
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
 * [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [chat gpt](https://chat.openai.com/)
